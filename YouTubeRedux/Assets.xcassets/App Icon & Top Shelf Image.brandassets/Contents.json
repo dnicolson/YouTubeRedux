@@ -1,13 +1,13 @@
 {
   "assets" : [
     {
-      "filename" : "App Icon - App Store.imagestack",
+      "filename" : "App Icon - Large.imagestack",
       "idiom" : "tv",
       "role" : "primary-app-icon",
       "size" : "1280x768"
     },
     {
-      "filename" : "App Icon.imagestack",
+      "filename" : "App Icon - Small.imagestack",
       "idiom" : "tv",
       "role" : "primary-app-icon",
       "size" : "400x240"
