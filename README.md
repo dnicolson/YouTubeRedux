@@ -1,3 +1,10 @@
+
+---
+
+:warning: As of 03.03.2021 YouTube no longer supports the TVML app and this no longer works.
+
+---
+
 # YouTubeRedux
 
 YouTubeRedux is an attempt to resurrect the classic tvOS YouTube app as an alternative to the current cross-platform app.
